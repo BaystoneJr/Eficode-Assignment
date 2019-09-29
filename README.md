@@ -1,6 +1,10 @@
 # Assignment made by Mikael Wiksten
 Here is my returning assignment. I have completed the mandatory and some of the optional tasks.
 
+Link for the original repository: https://github.com/eficode/weatherapp
+
+
+
 # The text of the original repository:
 # Weatherapp
 
