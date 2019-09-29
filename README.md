@@ -3,6 +3,8 @@ Here is my returning assignment. I have completed the mandatory and some of the 
 
 Link for the original repository: https://github.com/eficode/weatherapp
 
+To run through the backend's tests, run `npm run start` on the backend directory's root.
+
 
 
 # The text of the original repository:
