@@ -7,7 +7,7 @@ To run through the backend's tests, run `npm run start` on the backend directory
 
 
 
-# The text of the original repository:
+The text of the original repository:
 # Weatherapp
 
 There was a beautiful idea of building an app that would show the upcoming weather. The developers wrote a nice backend and a frontend following the latest principles and - to be honest - bells and whistles. However, the developers did not remember to add any information about the infrastructure or even setup instructions in the source code.
